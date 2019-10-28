@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/drill2.js"
+            "program": "${workspaceFolder}/drill3.js"
         }
     ]
 }
