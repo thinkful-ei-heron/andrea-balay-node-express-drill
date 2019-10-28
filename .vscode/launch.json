@@ -8,8 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/buggy-script.js",
-            "args": ["./project-outline.txt", "./foo-folder"]
+            "program": "${workspaceFolder}/drill2.js"
         }
     ]
 }
